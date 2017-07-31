@@ -50,8 +50,7 @@
 <p>图解</p>
 <p> <img src="https://github.com/liruida/cangku1/blob/master/18.jpg?raw=true" width="500" height="550" /></p>
 <h4>其它文章：</h4> 
-  <li><a href="https://liruida.github.io/liruida.github.io/ps2tuoceng.html 
-">PS层次2~~图层操作</a></li>
+  
    <li><a href="https://liruida.github.io/linux1.html
 ">Linux服务器安装过程</a></li>
   
